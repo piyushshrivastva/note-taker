@@ -1,0 +1,17 @@
+body{
+    display: flex;
+}
+#title{
+    width: 500px;
+}
+
+#desc{
+    width: 500px;
+    height: 300px;
+}
+
+
+
+button{
+    align-content: center;
+}
